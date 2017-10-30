@@ -1,0 +1,29 @@
+body{
+  background-color: #3A1B0F;
+  margin: 0 !important;
+  padding: 0 !important;
+  margin-top: 0px;
+  font-family: verdana;
+  font-size: 15px;
+}
+
+#container{
+  margin-left: 260px;
+  margin-right: 260px;
+  margin-top: 0px;
+  height: 600px;
+  width: 400px;
+  border-left: 2px solid #b76e45;
+  border-right: 2px solid #b76e45;
+  text-align: center;
+  }
+
+#opdrachtList{
+  width: 360px;
+  margin-left: 20px;
+}
+
+p{ color: #bf593d; }
+h3{ color: #aa5522; margin: 2px; }
+li{ color: #bf593d; float:left;}
+#p1{ overflow: auto; clear: left; }
